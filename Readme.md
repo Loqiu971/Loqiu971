@@ -31,7 +31,7 @@
 
 ## <picture> <img src="https://github.com/kaidohTips/kaidohTips/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:kaidohTips@protonmail.com"><img img src="https://img.shields.io/badge/protonmail--white?style=for-the-badge&logo=protonmail&logoColor=violet&label=protonmail" alt="TryHackMe"/></a>
+	<a href="mailto:loicq.vergerolle@outlook.fr"><img img src="https://img.shields.io/badge/protonmail--white?style=for-the-badge&logo=protonmail&logoColor=violet&label=protonmail" alt="TryHackMe"/></a>
 </p>
 
 
@@ -42,9 +42,6 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
   &emsp;
   &emsp;
    <a href="https://www.python.org" target="_blank">
