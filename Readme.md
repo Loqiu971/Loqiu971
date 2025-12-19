@@ -1,192 +1,57 @@
-<h1 align="center">Hi , I'm loqiu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;Arch+lover+<3;"></a>
-</p>
+<a href="[https://www.linkedin.com/in/nelson-lefebvre/?locale=fr_FR](https://www.linkedin.com/in/loicq-vergerolle-77653522a/)">
+  <img src="./banniere.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;">
+</a>
 
+#  Introduction
+## 👋 Hi, I’m Loïc Vergerolle
 
-<br>
-	
-## <picture><img src = "https://github.com/kaidohTips/kaidohTips/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+🛡️ Cybersecurity Engineer | 🌐 Network & Infrastructure Security | ☁️ Cloud & SOC  
+🎓 Cybersecurity Graduate | Former Security Systems Technician (Apprenticeship)  
+🌍 Based in EU | Open to international & remote opportunities  
 
-<picture> <img align="right" src="https://github.com/kaidohTips/kaidohTips/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+I work across **security operations, network security, incident response, and cloud infrastructure**, with hands-on experience from academic projects, apprenticeships, and real-world environments.
 
-<br><br>
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-fr" viewBox="0 0 640 480">
-  <path fill="#fff" d="M0 0h640v480H0z"/>
-  <path fill="#000091" d="M0 0h213.3v480H0z"/>
-  <path fill="#e1000f" d="M426.7 0H640v480H426.7z"/>
-</svg> 
-- :school: I am a `Security Engineer Junior` at one of the top schools in France 
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `CyberSecurity`
-- :nerd_face: Always `learning new things`.
-<br>
+🚀 **Freelancer on Upwork**  
+I provide **cybersecurity & security engineering services**, including:
+- 🔍 Security monitoring & log analysis (SOC / SIEM)
+- 🧪 Vulnerability assessment & security testing
+- 🌐 Network & infrastructure security
+- ⚙️ Security automation (Python, Bash)
+- ☁️ Cloud security fundamentals (AWS / Azure / GCP)
 
+I’m highly curious, fast-learning, and comfortable working in technical, international environments where security, reliability, and precision matter.
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>  My Competitive Profiles
-
-<p align="center">
-  <a href="https://tryhackme.com/p/kaidohTips"/><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo.png" alt="TryHackMe Logo" width= 60px/></a>
-</p>
-
-## <picture> <img src="https://github.com/kaidohTips/kaidohTips/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:loicq.vergerolle@outlook.fr"><img img src="https://img.shields.io/badge/protonmail--white?style=for-the-badge&logo=protonmail&logoColor=violet&label=protonmail" alt="TryHackMe"/></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/kaidohTips/kaidohTips/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  &emsp;
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
- ### <picture> <img src = "https://github.com/kaidohTips/kaidohTips/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-</p>
-
-<br> 
+📫 Let’s connect:
+- 💼 Upwork: *Cybersecurity Freelancer*
+- 🧠 Always open to new challenges and collaborations
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/kaidohTips/kaidohTips/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaidohTips&theme=tokyonight_duo" alt="kaidohTips" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="kaidohTips's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaidohTips&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaidohTips&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="kaidohTips" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![kaidohTips's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kaidohTips&theme=github	)](https://github.com/kaidohTips/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaidohTips&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="kaidohTips" /></a> </p>
-
-[![@kaidohTips's Holopin board](https://holopin.io/api/user/board?user=kaidohTips)](https://holopin.io/@kaidohTips)
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/kaidohTips/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/kaidohTips/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/kaidohTips/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/kaidohTips/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/kaidohTips">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=kaidohTips&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/kaidohTips/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaidohTips&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
+<h1 font-weight: bold">📬 Contact :</h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://www.linkedin.com/in/loicq-vergerolle-77653522a/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 15px;">
+    <img src="./linkedin.png" alt="LinkedIn" height="60" style="vertical-align: middle;">
+  </a>
+  <a href="mailto:loicq.vergerolle@outlook.fr" style="text-decoration: none; margin: 0 15px;">
+    <img src="./gmail.png" alt="Gmail" height="60" style="vertical-align: middle;">
+  </a>
 </div>
-</details>
 
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/kaidohTips/kaidohTips/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+---
+
+# 🖥️ Skills
+
+<div align="center">
+
+| **Category**        | **Technologies & Tools**                                                                                                                                           | **Expertise**                              |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Data Science & AI**| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="20"/> Python <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" alt="R" height="20"/> R <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow" height="20"/> TensorFlow                                                       | Machine Learning, Data Analysis, AI Modeling |
+| **Data Reporting**   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" height="20"/> Power BI <br> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" height="20"/> Looker                                                                                                                                   | Business Intelligence, Dashboard Creation |
+| **Database**         | <img src="https://cdn2.boryl.fr/2020/12/fd8a25a0-mysql.svg" alt="MySQL" height="20"/> MySQL <br>                                                                                                     | Database Design & Management               |
+| **Operating Systems**| <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" height="20"/> Linux <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/170px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="Windows" height="20"/> Windows           | System Administration, Scripting          |
+| **Networking**       | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" height="20"/> GNS3                                                                                               | Network Simulation                         |
+| **Programming**      | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" height="20"/> C <br> <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" height="20"/> Java                    | Robotics, Software Development            |
+| **Other Tools**      | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="LaTeX" height="20"/> LaTeX <br> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="Raspberry Pi" height="20"/> Raspberry Pi | Document Preparation, Prototyping          |
+
+
+</div>
