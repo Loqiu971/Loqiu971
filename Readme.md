@@ -51,7 +51,6 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 | **Cloud & Infrastructure** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="20"/> AWS <br> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="20"/> Azure <br> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="20"/> GCP | Cloud Security, Infrastructure Fundamentals |
 | **Operating Systems** | <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" height="20"/> Linux <br> <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" height="20"/> Windows | System Hardening, Administration |
 | **Scripting & Automation** | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20"/> Python <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" height="20"/> Bash <br> <img src="https://cdn-icons-png.flaticon.com/512/919/919846.png" height="20"/> PowerShell | Security Automation, Tooling |
-| **Monitoring & Logging** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Elastic_logo.svg" height="20"/> Elastic <br> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Splunk_logo.svg" height="20"/> Splunk | Log Correlation, Security Monitoring |
 | **Frameworks & Standards** | <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" height="20"/> NIST <br> <img src="https://cdn-icons-png.flaticon.com/512/2910/2910796.png" height="20"/> ISO 27001 <br> <img src="https://cdn-icons-png.flaticon.com/512/2910/2910787.png" height="20"/> MITRE ATT&CK | Risk Assessment, Security Governance |
 | **DevOps & Containers** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="20"/> Docker <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="20"/> Kubernetes | Secure Deployment, Container Security |
 | **Freelance Tools** | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" height="20"/> Upwork <br> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="20"/> GitHub | Remote Collaboration, Client Delivery |
@@ -61,4 +60,5 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 
 </div>
+
 
