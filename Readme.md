@@ -46,7 +46,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 | **Category** | **Technologies & Tools** | **Expertise** |
 |-------------|--------------------------|---------------|
 | **Cybersecurity** | <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" height="20"/> SIEM <br> <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" height="20"/> SOC <br> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="20"/> Incident Response | Threat Detection, Log Analysis, Incident Handling |
-| **Offensive Security** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Nmap-logo.svg" height="20"/> Nmap <br> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo.png" height="20"/> Metasploit <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BurpSuite_logo.png" height="20"/> Burp Suite | Vulnerability Assessment, Security Testing |
+| **Offensive Security** | <img src="https://upload.wikimedia.org/wikipedia/fr/7/7e/LOGO_Nmap.jpg" height="20"/> Nmap <br> <img src="https://play-lh.googleusercontent.com/PjfzpTbZMKywkKDtX1dLkzZroAZCLTwGrwIL3acVg_-DGeP4dYkKt_Z6R8bpaOReLQ=w480-h960-rw" height="20"/> Metasploit <br> <img src="https://play-lh.googleusercontent.com/irwTFDPMVceceN0Df0UoXbnNY5CfX1JH3Tdxa4T1raoy6gMA3_r1r8a-_enNAiay-Q=w480-h960-rw" height="20"/> Burp Suite | Vulnerability Assessment, Security Testing |
 | **Networking** | <img src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png" height="20"/> TCP/IP <br> <img src="https://cdn-icons-png.flaticon.com/512/2099/2099197.png" height="20"/> Firewall <br> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" height="20"/> GNS3 | Network Security, Routing & Switching |
 | **Cloud & Infrastructure** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="20"/> AWS <br> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="20"/> Azure <br> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="20"/> GCP | Cloud Security, Infrastructure Fundamentals |
 | **Operating Systems** | <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" height="20"/> Linux <br> <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" height="20"/> Windows | System Hardening, Administration |
@@ -60,6 +60,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 
 </div>
+
 
 
 
