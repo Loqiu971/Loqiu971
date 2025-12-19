@@ -32,6 +32,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
   <a href="https://www.linkedin.com/in/loicq-vergerolle-77653522a/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 15px;">
     <img src="./logo_linkedin.png" alt="LinkedIn" height="60" style="vertical-align: middle;">
   </a>
+  <p>________________</p>
   <a href="mailto:loicq.vergerolle@outlook.fr" style="text-decoration: none; margin: 0 15px;">
     <img src="./logo_mail.png" alt="Gmail" height="60" style="vertical-align: middle;">
   </a>
@@ -60,6 +61,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 
 </div>
+
 
 
 
