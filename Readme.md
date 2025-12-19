@@ -34,7 +34,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
   </a>
   <p>________________</p>
   <a href="mailto:loicq.vergerolle@outlook.fr" style="text-decoration: none; margin: 0 15px;">
-    <img src="./logo_mail.png" alt="Gmail" height="60" style="vertical-align: middle;">
+    <img src="./logo_maill.png" alt="Gmail" height="60" style="vertical-align: middle;">
   </a>
 </div>
 
@@ -61,6 +61,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 
 </div>
+
 
 
 
