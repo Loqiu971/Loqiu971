@@ -1,5 +1,5 @@
 <a href="[https://www.linkedin.com/in/nelson-lefebvre/?locale=fr_FR](https://www.linkedin.com/in/loicq-vergerolle-77653522a/)">
-  <img src="./banniere.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;">
+  <img src="./Background_github.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;">
 </a>
 
 #  Introduction
@@ -60,5 +60,6 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 
 </div>
+
 
 
