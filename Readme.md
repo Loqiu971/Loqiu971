@@ -27,16 +27,6 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 ---
 
-<h1 font-weight: bold">📬 Contact :</h2>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://www.linkedin.com/in/loicq-vergerolle-77653522a/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 15px;">
-    <img src="./logo_linkedin.png" alt="LinkedIn" height="60" style="vertical-align: middle;">
-  </a>
-  <a href="mailto:loicq.vergerolle@outlook.fr" style="text-decoration: none; margin: 0 15px;">
-    <img src="./logo_maill.png" alt="Gmail" height="60" style="vertical-align: middle;">
-  </a>
-</div>
-
 ---
 
 # 🖥️ Skills
@@ -60,6 +50,7 @@ I’m highly curious, fast-learning, and comfortable working in technical, inter
 
 
 </div>
+
 
 
 
